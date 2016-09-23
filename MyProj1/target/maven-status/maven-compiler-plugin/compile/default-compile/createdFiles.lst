@@ -1,0 +1,11 @@
+com\niit\dao\impl\CustomerDaoImpl.class
+com\niit\model\Product.class
+com\niit\model\customer.class
+com\niit\service\Impl\ProductserviceImpl.class
+com\niit\dao\customerdao.class
+com\niit\controller\Logincontroller.class
+com\niit\controller\Productcontroller.class
+com\niit\dao\productdao.class
+com\niit\dao\Logindao.class
+com\niit\service\Productservice.class
+com\niit\dao\impl\ProductDaoImpl.class
